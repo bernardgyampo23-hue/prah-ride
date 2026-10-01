@@ -1,0 +1,9 @@
+{
+  "name": "Prah Ride",
+  "description": "Premium, dependable, fixed-fare ride-hailing web application operating exclusively in Sekondi-Takoradi, Western Region, Ghana.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
